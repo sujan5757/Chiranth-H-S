@@ -1,2 +1,2 @@
 # Chiranth-H-S
-A Mechanical Student Protfolio
+Mechanical Student Protfolio 
